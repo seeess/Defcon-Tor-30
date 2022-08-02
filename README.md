@@ -5,7 +5,7 @@
 ****
 I wanted to help Tor out again since they are back in person with a vendor booth. So I remade the previous onion SAO/Badge. This year's kit includes a handcuff key with the security bitting cut, and a main-badge SAO header, along with the popular accesories like the electrical outlet sticker. 
 
-## In the box
+## In the kit
 * Tor badge
 * Lanyard
 * Two CR123a non-rechargeable batteries 
